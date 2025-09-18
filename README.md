@@ -30,18 +30,6 @@ The program then shows the sorted output step by step in the terminal, making it
 
 ---
 
-## Time & Space Complexity (Overview)
-
-| Algorithm      | Time Complexity (Best / Average / Worst) | Space Complexity |
-|----------------|-------------------------------------------|------------------|
-| Bubble Sort    | O(n) / O(n²) / O(n²)                     | O(1)             |
-| Selection Sort | O(n²) / O(n²) / O(n²)                    | O(1)             |
-| Insertion Sort | O(n) / O(n²) / O(n²)                     | O(1)             |
-| Quick Sort     | O(n log n) / O(n log n) / O(n²)          | O(log n)         |
-| Merge Sort     | O(n log n) / O(n log n) / O(n log n)     | O(n)             |
-
----
-
 ## How to Run
 1. Clone this repository:
    ```bash
