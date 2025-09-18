@@ -26,7 +26,7 @@ The program then shows the sorted output step by step in the terminal, making it
   - `<vector>` → to store dynamic arrays  
   - `<cstdlib>` → for generating random numbers  
   - `<ctime>` → to seed the random number generator  
-  - `<chrono>` & `<thread>` → for adding delays in visualization  
+  - `<window.h> → for adding delays in visualization  
 
 ---
 
